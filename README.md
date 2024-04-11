@@ -18,7 +18,7 @@ You will find the relative work in pychain.py.
 #### Storing Records:
 
 ##### Testing the Functionality of the Blockchain
-![alt=""](Images/functionality-image.png)
+![alt=""](Images/functionality.png)
 
 ##### Vaildating the Blockchain
-![alt=""](Images/Vaild-image.png)
+![alt=""](Images/Vaild.png)
